@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\bin\Debug\netcoreapp3.1\CountriesLab.exe
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\bin\Debug\netcoreapp3.1\CountriesLab.deps.json
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\bin\Debug\netcoreapp3.1\CountriesLab.runtimeconfig.json
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\bin\Debug\netcoreapp3.1\CountriesLab.runtimeconfig.dev.json
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\bin\Debug\netcoreapp3.1\CountriesLab.dll
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\bin\Debug\netcoreapp3.1\CountriesLab.pdb
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\obj\Debug\netcoreapp3.1\CountriesLab.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\obj\Debug\netcoreapp3.1\CountriesLab.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\obj\Debug\netcoreapp3.1\CountriesLab.AssemblyInfo.cs
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\obj\Debug\netcoreapp3.1\CountriesLab.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\obj\Debug\netcoreapp3.1\CountriesLab.dll
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\obj\Debug\netcoreapp3.1\CountriesLab.pdb
+C:\Users\12482\source\repos\CountriesLab\CountriesLab\obj\Debug\netcoreapp3.1\CountriesLab.genruntimeconfig.cache
